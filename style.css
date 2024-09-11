@@ -34,7 +34,7 @@ body {
 }
 
 .gradiente {
-    background: linear-gradient(to left top, #5579ba, #41a377);
+    background: linear-gradient(to left top, black, #3474a1);
 }
 
 header {
@@ -93,7 +93,7 @@ footer {
 
 .contact {
     padding: 1em;
-    background: linear-gradient(to left top, #5579ba, #41a377);
+    background: linear-gradient(to left top, #3474a1, black);
     display: flex;
     justify-content: center;
     align-items: center;
